@@ -1,0 +1,48 @@
+
+a{
+color:#00f;
+text-decoration:none;}
+a:hover{
+color:#996699;
+text-decoration:underline;
+font-weight:bold;}
+a:active{
+color:#080;
+text-decoration:none;
+
+}
+/*
+a:visited{
+color:#f40;
+font-weight:none;
+}*/
+
+p
+{
+color:#00f;
+background-color:#dcffff;
+padding:7px;
+width:400;
+margin-right:100px;
+margin:50px  810px auto;
+border-style:double dashed;
+border-width:10px 8px;
+border-color:#1a8c4a #4f76a6 #ad6bbb;
+direction:ltr;}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { header{
+	background-position: right center;}}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) { header{
+	background-position: right center;} }
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { 
+	header{
+	background-position: right center;}
+
+ }
+
+

@@ -1,0 +1,33 @@
+
+
+a{
+color:#00f;
+text-decoration:none;}
+a:hover{
+color:#996699;
+text-decoration:underline;
+font-weight:bold;}
+a:active{
+color:#080;
+text-decoration:none;
+
+}
+/*
+a:visited{
+color:#f40;
+font-weight:none;
+}*/
+
+
+p
+{
+color:#00f;
+background-color:#ddd;
+padding:13px;
+width:400px;
+margin-right:100px;
+margin: 20px 789px auto;
+border-style:double dashed;
+border-width:10px 8px;
+border-color: #748DA6 #a45b5b #e883b0 #a45b5b ;
+direction:ltr;}
